@@ -69,4 +69,4 @@ This project demonstrates the ability to:
 ## 👤 Author
 
 **Neslişah Ebral Durdu**
-Business Analyst | Data & BI Enthusiast
+Business Analyst | Data & BI Developer
