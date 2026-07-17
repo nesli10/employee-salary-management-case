@@ -31,7 +31,7 @@ As an HR Specialist, I want to create a salary record so that employee salary da
 **Status:** To Do
 
 
-
+---
 
 ### 🟦 STORY: US-02 Update Salary
 
@@ -65,7 +65,7 @@ As an HR Specialist, I want to update salary so that changes are reflected in th
 **Status:** To Do
 
 
-
+---
 
 ### 🟥 BUG: Salary accepts negative value
 
